@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "naudhil",
+    "DB_PASSWORD": "x0ch5xhwQmpavPFV",
+    "DB_NAME": "exercises",
+    "GOOGLE_API_KEY": "AIzaSyAdqrXXhBTfJVTprsfjcutV-468elTW578",
+    "JWT_KEY": "lZqJWSQG0GmmprmjtoUlmujRi"
+  }
+}
